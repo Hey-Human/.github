@@ -11,9 +11,18 @@ Nuestra misión es aplicar técnicas de bioética para llevar la innovación con
 
 A través de estas técnicas, buscamos impulsar la innovación de manera consciente, situando la innovación en el mejor estado posible y según sea posible.
 
-## Proyectos 💡
+## Página de bienvenida 🚪
 
-Estamos trabajando en varios proyectos que aplican nuestras técnicas de bioética en diferentes áreas, como la inteligencia artificial, la sostenibilidad y la salud. Puedes explorar nuestros proyectos en los repositorios de la organización.
+Para saber más sobre Hey, Human!, visita nuestra [página de bienvenida](https://hey-human.github.io/).
+
+## Proyectos destacados 💡
+
+Estamos trabajando en varios proyectos que aplican nuestras técnicas de bioética en diferentes áreas, como la inteligencia artificial, la sostenibilidad y la salud. Estos son algunos de nuestros proyectos destacados:
+
+- [Idear.io](https://hey-human.github.io/idear.io/): Una plataforma para compartir y discutir ideas innovadoras.
+- [Tres Caras](https://hey-human.github.io/tres-caras/): Un proyecto centrado en la aplicación de nuestros principios de bioética.
+
+Puedes explorar otros proyectos en los repositorios de la organización.
 
 ## Únete a nosotros 👋
 
