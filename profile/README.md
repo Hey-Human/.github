@@ -19,7 +19,7 @@ Para saber más sobre Hey, Human!, visita nuestra [página de bienvenida](https:
 
 Estamos trabajando en varios proyectos que aplican nuestras técnicas de bioética en diferentes áreas, como la inteligencia artificial, la sostenibilidad y la salud. Estos son algunos de nuestros proyectos destacados:
 
-![Idear.io icon](https://hey-human.github.io/idear.io/idear-io-icon.png){: style="float: left; margin-right: 10px; width: 25px; height: 25px;" } [Idear.io](https://hey-human.github.io/idear.io/): Una plataforma para compartir y discutir ideas innovadoras.
+- [Idear.io](https://hey-human.github.io/idear.io/): Una plataforma para compartir y discutir ideas innovadoras.
 
 - [Tres Caras](https://hey-human.github.io/tres-caras/): Un proyecto centrado en la aplicación de nuestros principios de bioética.
 
